@@ -1,0 +1,10 @@
+# MAPF-GPT 재현 환경 — 버전 고정
+# 설치 명령어: pip install -r requirements.txt
+
+pogema==1.1.0
+torch==2.1.0
+numpy==1.24.3
+gymnasium==0.29.1
+huggingface_hub>=0.20.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
